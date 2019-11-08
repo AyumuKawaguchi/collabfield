@@ -13,3 +13,8 @@
  */
  @import "bootstrap-sprockets";
  @import "bootstrap";
+ // Variables
+@import "base/variables";
+
+// Partials - メインのcssファイル
+@import "partials/layout/*";
